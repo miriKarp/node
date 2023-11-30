@@ -1,0 +1,27 @@
+[{
+    "id": 1,
+    "name": "gila",
+    "phone": "0256548",
+    "email": "n@esjk",
+    "role": "Senior Manager",
+    "department": "analysis",
+    "StartOfWorkDate": "01-01-1995"
+}, {
+    "id": 2,
+    "name": "rina",
+    "phone": "54576875",
+    "email": "fg@kgo",
+    "role": "Team leader",
+    "department": "data",
+    "StartOfWorkDate": "01-01-2000"
+
+}, {
+    "id": 3,
+    "name": "bina",
+    "phone": "487565",
+    "email": "wre@klj",
+    "role": "worker",
+    "department": "tests",
+    "StartOfWorkDate": "01-01-2003"
+
+}]
